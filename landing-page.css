@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+h1{
+    font-size: 30px;
+    color: crimson;
+}
+i{
+    font-size: 25px;
+    color: black;
+}
+.evil{
+    font-size: 25px;
+    color: teal;
+}
+.link{
+    text-transform: uppercase;
+}
