@@ -4,16 +4,27 @@ body{
 
 h1{
     font-size: 30px;
-    color: crimson;
+    color: lightblue;
 }
-i{
+.italic{
     font-size: 25px;
-    color: black;
+    color: white;
 }
 .evil{
     font-size: 25px;
-    color: teal;
+    color: crimson;
 }
 .link{
     text-transform: uppercase;
+}
+
+p{
+    color: white;
+}
+
+a{
+    color: lightblue;
+}
+i{
+    color: lightblue;
 }
